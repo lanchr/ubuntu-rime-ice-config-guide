@@ -50,7 +50,7 @@
 
 ```bash
 # 1. 克隆项目
-git clone https://github.com/你的仓库/opencode-project.git
+git clone https://github.com/lanchr/ubuntu-rime-ice-config-guide.git
 cd opencode-project/scripts
 
 # 2. 赋予执行权限
@@ -160,7 +160,7 @@ vim ~/.config/fcitx5/conf/classicui.conf
 
 - 雾凇拼音 GitHub：https://github.com/iDvel/rime-ice
 - Fcitx5 官网：https://fcitx.github.io/
-- 自动化脚本地址：https://github.com/你的仓库/opencode-project
+- 自动化脚本地址：https://github.com/lanchr/ubuntu-rime-ice-config-guide
 
 ---
 
