@@ -51,7 +51,7 @@
 ```bash
 # 1. 克隆项目
 git clone https://github.com/lanchr/ubuntu-rime-ice-config-guide.git
-cd opencode-project/scripts
+cd ubuntu-rime-ice-config-guide/scripts
 
 # 2. 赋予执行权限
 chmod +x setup-rime-ice.sh
